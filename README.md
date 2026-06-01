@@ -21,9 +21,8 @@ This project predicts which individuals are most likely to have or use a bank ac
 - Feature engineering
 - Random Forest classification model
 - Model evaluation and feature importance analysis
-
 ## Results
-- Achieved [XX% accuracy / other metric]
+- Achieved 
 - Key predictors: education level, cellphone access, age
 
 ## How to Run
